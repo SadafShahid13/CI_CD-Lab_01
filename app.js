@@ -2,7 +2,7 @@ const express = require('express');
 const app = express()
 
 app.get('/',(req,res)=>{
-    res.send('Welcome to Azure people')
+    res.send('Welcome to Azure mk2')
 })
 
 
